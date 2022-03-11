@@ -1,0 +1,12 @@
+*{
+    margin-top: 100px;
+}
+
+.frm{
+    border: 2px black solid;
+    margin-left: 520px;
+    margin-right: 500px;
+    padding: 80px 50px 200px 50px;
+    background-color: yellowgreen;
+    border-radius: 5px;
+}
